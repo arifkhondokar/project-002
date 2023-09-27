@@ -349,7 +349,6 @@
     padding: 14px 28px;
     justify-content: center;
     align-items: center;
-    /* gap: 10px; */
     border: none;
     border-radius: 18px;
     background-color: #8454F5;
@@ -406,8 +405,7 @@
  .down_bar {
     display: flex;
     align-items: center;
-    -moz-column-gap: 156px;
-         column-gap: 156px;
+    column-gap: 156px;
   }
  .down_bar .img_side {
     padding-left: 55px;
